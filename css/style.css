@@ -1,0 +1,30 @@
+
+body {
+    background-color: black;
+}
+
+.main-login {
+    background-color: green;
+    
+}
+
+.left-login {
+    background-color: blue;
+    width: 400px;    
+}
+
+.right-login {
+    background-color: aqua;
+    padding: 70px;
+    border: 1px solid black;
+    width: fit-content;
+    border-radius: 10px;
+}
+
+.textfield {
+    padding: 5px;
+}
+
+.btn-login {
+    padding: 20px;
+}
