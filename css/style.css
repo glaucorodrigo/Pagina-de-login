@@ -127,39 +127,28 @@ a {
     color:black;
 }
 
-@media only screen and (max-width: 950px){
+@media (max-width: 950px){
     .card-login {
-        width: 85%;
+        width: auto;
+        height: auto;
     }
-}
 
-@media only screen and(max-width: 600px) {
+
+
     .main-login {
         flex-direction: column;
-        
+        box-sizing: border-box;
     }
 
-    .left-login > h1 {
+    .left-login-image {
         display: none;
     }
 
-    .left-login{
-        width: 100%;
-        height: auto;
-    }
-
-    .right-login{
-        width: 100%;
-        height: auto;
-    }
-
-    .left-login-image{
-       width: 50vw;
-    }
-
-    .card-login {
-        width: 90%;
+    .left-login h1 {
+        font-size: 50px;
+        box-sizing: border-box;
     }
 }
+
 
 
