@@ -129,7 +129,7 @@ a {
 
 @media (max-width: 950px){
     .card-login {
-        width: auto;
+        width: 100%;
         height: auto;
     }
 
@@ -137,7 +137,9 @@ a {
 
     .main-login {
         flex-direction: column;
-        box-sizing: border-box;
+        width: 100%;  
+        margin: 20px;  
+    
     }
 
     .left-login-image {
@@ -145,10 +147,11 @@ a {
     }
 
     .left-login h1 {
-        font-size: 50px;
-        box-sizing: border-box;
+        font-size: 25px;
+        white-space: nowrap;
     }
 }
+
 
 
 
