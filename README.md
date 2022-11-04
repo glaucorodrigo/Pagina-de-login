@@ -1,4 +1,9 @@
-<h1>Tela de login responsiva</h1>
+<h1>Tela de login </h1>
+
+<h2>🎯Objetivo</h2>
+
+Criar mais experiência com as técnicas para criar uma página responsiva.
+
 
 <h2>Tecnologias utilizadas</h2>
 
@@ -7,9 +12,7 @@
 <li> CSS</li>
 </ul>
 
-<h2>🎯Objetivo</h2>
 
-Criar mais experiência com as técnicas para criar uma página responsiva.
 
 
 
