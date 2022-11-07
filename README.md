@@ -2,7 +2,7 @@
 
 <h2>🎯Objetivo</h2>
 
-Criar mais experiência com as técnicas para criar uma página responsiva.
+Criar mais experiência com as técnicas para criar uma página <strong>responsiva</strong>. 
 
 
 <h2>Tecnologias utilizadas</h2>
