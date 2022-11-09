@@ -12,6 +12,10 @@ Criar mais experiência com as técnicas para criar uma página <strong>responsi
 <li> CSS</li>
 </ul>
 
+<h2> Pendência:</h2>
+
+Finalizar a parte responsiva.
+
 
 
 
