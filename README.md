@@ -1,6 +1,6 @@
 <h1>Tela de login </h1>
 
-<h2>🎯Objetivo</h2>
+<h2>🎯Objetivos</h2>
 
 Criar mais experiência com as técnicas para criar uma página <strong>responsiva</strong>. 
 
