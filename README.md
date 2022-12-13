@@ -14,7 +14,7 @@ Criar mais experiência com as técnicas para criar uma página <strong>responsi
 
 <h2> Pendência:</h2>
 
-Finalizar a parte responsiva.
+Finalizar a parte responsiva e finalizar o tamanho dos elementos. 
 
 
 
