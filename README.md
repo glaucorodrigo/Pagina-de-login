@@ -2,7 +2,8 @@
 
 <h2>🎯Objetivos</h2>
 
-Criar mais experiência com as técnicas para criar uma página <strong>responsiva</strong>. 
+Criar mais experiência com as técnicas para criar uma página <strong>responsiva</strong>.
+Mantendo assim o padrão utilizado para diferentes tamanhos de telas e dispositivos. 
 
 
 <h2>Tecnologias utilizadas</h2>
